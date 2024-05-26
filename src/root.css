@@ -1,0 +1,13 @@
+#root{
+    display:flex;
+}
+
+#sidebar{
+    background-color: #f3f3f3;
+    padding:10px;
+    height:100vh;
+}
+
+#detail{
+    padding: 10px;
+}
